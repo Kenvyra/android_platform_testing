@@ -41,7 +41,6 @@ native_tests := \
     bsdiff_unittest \
     buffer_hub-test \
     buffer_hub_queue-test \
-    buffer_hub_queue_producer-test \
     bugreportz_test \
     bytes_test_tests_test_buf \
     bytes_test_tests_test_buf_mut \
@@ -63,9 +62,6 @@ native_tests := \
     dumpstate_test \
     dumpstate_test_fixture \
     dumpsys_test \
-    dvr_api-test \
-    dvr_buffer_queue-test \
-    dvr_display-test \
     gpuservice_unittest \
     gwp_asan_unittest \
     hello_world_test \
